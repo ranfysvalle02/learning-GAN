@@ -1,6 +1,6 @@
 # learning-GAN
 
-# Unleashing Creativity with GANs: Generating Colorful Triangles from Scratch
+# Unleashing Creativity with GANs
 
 Generative Adversarial Networks (GANs) have revolutionized the field of artificial intelligence by enabling machines to create realistic data that mirrors human creativity. From generating lifelike images to composing music, GANs are at the forefront of AI-driven content creation. In this blog post, we'll delve into the fundamentals of GANs by building one from scratch using PyTorch and PyTorch Lightning. Our GAN will learn to generate colorful triangles, showcasing the power and simplicity of this technology.
 
