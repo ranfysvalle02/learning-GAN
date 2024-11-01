@@ -1,5 +1,7 @@
 # learning-GAN
 
+![](gan.png)
+
 # Unleashing Creativity with GANs
 
 Generative Adversarial Networks (GANs) have revolutionized the field of artificial intelligence by enabling machines to create realistic data that mirrors human creativity. From generating lifelike images to composing music, GANs are at the forefront of AI-driven content creation. In this blog post, we'll delve into the fundamentals of GANs by building one from scratch using PyTorch and PyTorch Lightning. Our GAN will learn to generate colorful triangles, showcasing the power and simplicity of this technology.
@@ -296,7 +298,7 @@ The `generate_image` function creates new images by:
 
 **Sample Output**:
 
-![Generated Colored Triangles](demo.png)
+![Generated Colored Triangles](gan.png)
 
 Each generated image should resemble a colored triangle, potentially varying in color and slight shape nuances due to the randomness in noise input.
 
